@@ -1,0 +1,17 @@
+*{
+    padding: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#title{
+    text-align: center;
+    padding: 20px;
+}
+
+#body{
+    text-align: justify;
+}
+
+#principles{
+    padding-left: 70px;
+}
